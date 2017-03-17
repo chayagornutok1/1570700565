@@ -8,7 +8,7 @@ public class Boundary
 	public float xMin, xMax, zMin, zMax;
 }
 
-public class PlayerController : MonoBehaviour {
+public class Playercontroller : MonoBehaviour {
 
 	public float speed;
 	public float tilt;
@@ -20,12 +20,13 @@ public class PlayerController : MonoBehaviour {
 
 	private float nextFire;
 
-	void Update ()
+	void Update()
 	{
-		if (Input.GetButton("Fire1") && Time.time > nextFire) {
+		if (Input.GetButton("Fire1") && Time.time > nextFire)
+		{
 			nextFire = Time.time + fireRate;
-		//	GameObject clone = 
-			Instantiate (shot, shotSpawn.position, shotSpawn.rotation ); //as GameObject;
+			Instantiate(shot, shotSpawn.position, shotSpawn.rotation);
+			GetComponent<AudioSource>().Play();
 		}
 	}
 
@@ -47,4 +48,3 @@ public class PlayerController : MonoBehaviour {
 		GetComponent<Rigidbody>().rotation = Quaternion.Euler(0.0f, 0.0f, GetComponent<Rigidbody>().velocity.x * -tilt);
 	}
 }
-

@@ -1,4 +1,3 @@
-C:\Users\Lenovo\Desktop\Sam\1570700565\space shooter\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
 C:\Users\Lenovo\Desktop\Sam\1570700565\space shooter\Temp\bin\Debug\Assembly-CSharp.dll
 C:\Users\Lenovo\Desktop\Sam\1570700565\space shooter\Temp\bin\Debug\Assembly-CSharp.pdb
 C:\Users\Lenovo\Desktop\Sam\1570700565\space shooter\Temp\bin\Debug\UnityEditor.dll
@@ -25,5 +24,6 @@ C:\Users\Lenovo\Desktop\Sam\1570700565\space shooter\Temp\bin\Debug\UnityEngine.
 C:\Users\Lenovo\Desktop\Sam\1570700565\space shooter\Temp\bin\Debug\UnityEngine.Analytics.xml
 C:\Users\Lenovo\Desktop\Sam\1570700565\space shooter\Temp\bin\Debug\UnityEngine.HoloLens.xml
 C:\Users\Lenovo\Desktop\Sam\1570700565\space shooter\Temp\bin\Debug\UnityEngine.VR.xml
+C:\Users\Lenovo\Desktop\Sam\1570700565\space shooter\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
 C:\Users\Lenovo\Desktop\Sam\1570700565\space shooter\obj\Debug\Assembly-CSharp.dll
 C:\Users\Lenovo\Desktop\Sam\1570700565\space shooter\obj\Debug\Assembly-CSharp.pdb
