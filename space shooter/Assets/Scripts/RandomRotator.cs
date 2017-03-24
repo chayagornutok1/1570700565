@@ -2,14 +2,12 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class RandomRotator : MonoBehaviour 
-{
-	public float tumble;
+public class RandomRotator : MonoBehaviour {
 
-	void Start ()
-	{
-		GetComponent<Rigidbody> ().angularVelocity = Random.insideUnitSphere * tumble;
-	}
-	
+    public float tumble;
 
+    void Start()
+    {
+        GetComponent<Rigidbody>().angularVelocity = Random.insideUnitSphere * tumble;
+    }
 }

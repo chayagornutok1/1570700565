@@ -1,29 +1,31 @@
-C:\Users\Lenovo\Desktop\Sam\1570700565\space shooter\Temp\bin\Debug\Assembly-CSharp.dll
-C:\Users\Lenovo\Desktop\Sam\1570700565\space shooter\Temp\bin\Debug\Assembly-CSharp.pdb
-C:\Users\Lenovo\Desktop\Sam\1570700565\space shooter\Temp\bin\Debug\UnityEditor.dll
-C:\Users\Lenovo\Desktop\Sam\1570700565\space shooter\Temp\bin\Debug\UnityEngine.Analytics.dll
-C:\Users\Lenovo\Desktop\Sam\1570700565\space shooter\Temp\bin\Debug\UnityEngine.dll
-C:\Users\Lenovo\Desktop\Sam\1570700565\space shooter\Temp\bin\Debug\UnityEngine.HoloLens.dll
-C:\Users\Lenovo\Desktop\Sam\1570700565\space shooter\Temp\bin\Debug\UnityEngine.Networking.dll
-C:\Users\Lenovo\Desktop\Sam\1570700565\space shooter\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.dll
-C:\Users\Lenovo\Desktop\Sam\1570700565\space shooter\Temp\bin\Debug\UnityEngine.UI.dll
-C:\Users\Lenovo\Desktop\Sam\1570700565\space shooter\Temp\bin\Debug\UnityEngine.VR.dll
-C:\Users\Lenovo\Desktop\Sam\1570700565\space shooter\Temp\bin\Debug\Mono.Cecil.dll
-C:\Users\Lenovo\Desktop\Sam\1570700565\space shooter\Temp\bin\Debug\Unity.SerializationLogic.dll
-C:\Users\Lenovo\Desktop\Sam\1570700565\space shooter\Temp\bin\Debug\Unity.DataContract.dll
-C:\Users\Lenovo\Desktop\Sam\1570700565\space shooter\Temp\bin\Debug\ICSharpCode.NRefactory.dll
-C:\Users\Lenovo\Desktop\Sam\1570700565\space shooter\Temp\bin\Debug\Unity.UNetWeaver.dll
-C:\Users\Lenovo\Desktop\Sam\1570700565\space shooter\Temp\bin\Debug\Unity.CecilTools.dll
-C:\Users\Lenovo\Desktop\Sam\1570700565\space shooter\Temp\bin\Debug\Mono.Cecil.Pdb.dll
-C:\Users\Lenovo\Desktop\Sam\1570700565\space shooter\Temp\bin\Debug\Mono.Cecil.Mdb.dll
-C:\Users\Lenovo\Desktop\Sam\1570700565\space shooter\Temp\bin\Debug\UnityEngine.xml
-C:\Users\Lenovo\Desktop\Sam\1570700565\space shooter\Temp\bin\Debug\UnityEditor.xml
-C:\Users\Lenovo\Desktop\Sam\1570700565\space shooter\Temp\bin\Debug\UnityEngine.UI.xml
-C:\Users\Lenovo\Desktop\Sam\1570700565\space shooter\Temp\bin\Debug\UnityEngine.Networking.xml
-C:\Users\Lenovo\Desktop\Sam\1570700565\space shooter\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.xml
-C:\Users\Lenovo\Desktop\Sam\1570700565\space shooter\Temp\bin\Debug\UnityEngine.Analytics.xml
-C:\Users\Lenovo\Desktop\Sam\1570700565\space shooter\Temp\bin\Debug\UnityEngine.HoloLens.xml
-C:\Users\Lenovo\Desktop\Sam\1570700565\space shooter\Temp\bin\Debug\UnityEngine.VR.xml
-C:\Users\Lenovo\Desktop\Sam\1570700565\space shooter\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
-C:\Users\Lenovo\Desktop\Sam\1570700565\space shooter\obj\Debug\Assembly-CSharp.dll
-C:\Users\Lenovo\Desktop\Sam\1570700565\space shooter\obj\Debug\Assembly-CSharp.pdb
+C:\Users\admin\Desktop\Game Developer\Space Shooter\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\Game Developer\Space Shooter\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\admin\Desktop\Game Developer\Space Shooter\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\admin\Desktop\Game Developer\Space Shooter\Temp\bin\Debug\UnityEditor.dll
+C:\Users\admin\Desktop\Game Developer\Space Shooter\Temp\bin\Debug\UnityEditor.iOS.Extensions.Common.dll
+C:\Users\admin\Desktop\Game Developer\Space Shooter\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+C:\Users\admin\Desktop\Game Developer\Space Shooter\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\admin\Desktop\Game Developer\Space Shooter\Temp\bin\Debug\UnityEngine.dll
+C:\Users\admin\Desktop\Game Developer\Space Shooter\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\admin\Desktop\Game Developer\Space Shooter\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\admin\Desktop\Game Developer\Space Shooter\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.dll
+C:\Users\admin\Desktop\Game Developer\Space Shooter\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\admin\Desktop\Game Developer\Space Shooter\Temp\bin\Debug\UnityEngine.VR.dll
+C:\Users\admin\Desktop\Game Developer\Space Shooter\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\admin\Desktop\Game Developer\Space Shooter\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\admin\Desktop\Game Developer\Space Shooter\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\admin\Desktop\Game Developer\Space Shooter\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\admin\Desktop\Game Developer\Space Shooter\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\admin\Desktop\Game Developer\Space Shooter\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\admin\Desktop\Game Developer\Space Shooter\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\admin\Desktop\Game Developer\Space Shooter\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\admin\Desktop\Game Developer\Space Shooter\Temp\bin\Debug\UnityEngine.xml
+C:\Users\admin\Desktop\Game Developer\Space Shooter\Temp\bin\Debug\UnityEditor.xml
+C:\Users\admin\Desktop\Game Developer\Space Shooter\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\admin\Desktop\Game Developer\Space Shooter\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\admin\Desktop\Game Developer\Space Shooter\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.xml
+C:\Users\admin\Desktop\Game Developer\Space Shooter\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\admin\Desktop\Game Developer\Space Shooter\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\admin\Desktop\Game Developer\Space Shooter\Temp\bin\Debug\UnityEngine.VR.xml
+C:\Users\admin\Desktop\Game Developer\Space Shooter\obj\Debug\Assembly-CSharp.dll
+C:\Users\admin\Desktop\Game Developer\Space Shooter\obj\Debug\Assembly-CSharp.pdb
